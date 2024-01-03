@@ -53,3 +53,9 @@ Write a function `guardrail(mathFunction)` that captures return values and error
 9-try.js
 
 Feel free to explore and complete these tasks to enhance your JavaScript skills for backend development.
+
+## Task 100: Asynchronous Function - Upload User Data
+
+Import `uploadPhoto` and `createUser` from `utils.js`.
+
+Write an asynchronous function named `asyncUploadUser` that calls these two functions and returns an object with the following format:
