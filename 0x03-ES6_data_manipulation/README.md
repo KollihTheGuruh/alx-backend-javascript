@@ -1,5 +1,5 @@
 ## Task 0: Basic list of objects
-### File:  <span style="color: red;">0-get_list_students.js</span>
+### File: ```bash <span style="color: red;"> 0-get_list_students.js</span> ```
 
 
 
