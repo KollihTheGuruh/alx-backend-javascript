@@ -1,5 +1,15 @@
+<style>
+  code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+}
+</style>
+
 ## Task 0: Basic list of objects
-### <span style="color:blue;"> File:0-get_list_students.js</span>
+### File: <code>0-get_list_students.js</code>
 
 
 
