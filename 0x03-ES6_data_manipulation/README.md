@@ -1,24 +1,24 @@
 //Task 0: Basic list of objects
 //File: 0-get_list_students.js
 
-/**
+
  * Create a function named getListStudents that returns an array of objects.
  * Each object should have three attributes: id (Number), firstName (String), and location (String).
  * The array contains the following students in order:
  * - Guillaume, id: 1, in San Francisco
  * - James, id: 2, in Columbia
  * - Serena, id: 5, in San Francisco
- */
+
 
 // Task 1: More mapping
 // File: 1-get_list_student_ids.js
 
-/**
+
  * Create a function getListStudentIds that returns an array of ids from a list of object.
  * This function takes one argument, which is an array of objects, in the same format as getListStudents from the previous task.
  * If the argument is not an array, the function returns an empty array.
  * You must use the map function on the array.
- */
+ 
 
 // Task 2: Filter
 // File: 2-get_students_by_loc.js
