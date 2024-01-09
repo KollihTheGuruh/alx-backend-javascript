@@ -1,7 +1,8 @@
+# 0x03-ES6_data_manipulation
 
 ## Task 0: Basic list of objects
 
-### File: <span style="color:red;"><code>0-get_list_students.js</code></span>
+### File: 0-get_list_students.js
 
 * Create a function named getListStudents that returns an array of objects.
 * Each object should have three attributes: id (Number), firstName (String), and location (String).
