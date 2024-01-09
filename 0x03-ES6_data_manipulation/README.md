@@ -1,5 +1,5 @@
-// Task 0: Basic list of objects
-// File: 0-get_list_students.js
+//Task 0: Basic list of objects
+//File: 0-get_list_students.js
 
 /**
  * Create a function named getListStudents that returns an array of objects.
