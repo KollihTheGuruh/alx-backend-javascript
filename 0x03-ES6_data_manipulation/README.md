@@ -1,3 +1,4 @@
+```html
 <style>
   code {
     padding: 2px 4px;
