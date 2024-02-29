@@ -1,4 +1,3 @@
-
 const { readFile } = require('fs');
 module.exports = countStudents;
 
