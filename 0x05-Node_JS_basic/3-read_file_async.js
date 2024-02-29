@@ -1,5 +1,6 @@
 
 const { readFile } = require('fs');
+module.exports = countStudents;
 
 function countStudents(fileName) {
   const students = {};
@@ -39,5 +40,3 @@ function countStudents(fileName) {
     });
   });
 }
-
-module.exports = countStudents;
