@@ -13,4 +13,3 @@ app.listen(port, hostname, () => {
 });
 
 module.exports = app;
-
